@@ -1,6 +1,6 @@
-I’m @domangeb, Fullstack engineer.
-- I am specialised in Mobile development (Android SDK JAVA and Flutter Dart), desktop apps (Qt C++) and backend (NodeJS, Express).
-- I also have some experience with Python (Flask, pandas).
+I am @domangeb, Fullstack engineer.
+- I am specialised in Mobile development (Android SDK JAVA and Flutter Dart), desktop & Robot apps (C++) and backend (NodeJS, Express).
+- I also have some experience with Python (Flask, pandas, OpenCV).
 - I am confortable with both RDB (MySQL, SQLite) and NoSQL (MongoDB).
 - I use Docker, Ansible and Nginx to deploy my server apps on the cloud.
 
